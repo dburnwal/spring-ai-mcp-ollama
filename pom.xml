@@ -11,8 +11,8 @@
 	<groupId>com.dburnwal.springai</groupId>
 	<artifactId>spring-mcp-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>OllamaVectorHub</name>
-	<description>spring-mcp-server-example</description>
+	<name>spring-mcp-server</name>
+	<description>Spring AI MCP Server Example</description>
 
 	<properties>
 		<java.version>21</java.version>
